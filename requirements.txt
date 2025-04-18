@@ -3,3 +3,5 @@ pandas
 matplotlib
 PyJWT
 google-generativeai
+os
+sqlite3
