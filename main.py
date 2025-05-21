@@ -6,7 +6,7 @@ import pandas as pd
 import os
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDydi2hsZV8yh_nv8hqIccQk_1Eqq0GFF0")
+genai.configure(api_key="AIzaSyC98Bhkfqp_LgsdLqYu7X5JVVEwhpcM414")
 model = genai.GenerativeModel('gemini-1.5-pro')
 
 def init_db():
